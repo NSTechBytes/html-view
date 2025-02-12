@@ -1,2 +1,2 @@
 # html-view
- View and preview HTML files inside VS Code.
+ View and preview HTML files inside VSW.

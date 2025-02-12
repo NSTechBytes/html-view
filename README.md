@@ -84,3 +84,4 @@ If you like this extension, consider ⭐ starring the repo!
 
 ### 📜 **License**  
 Apache 2.0 License. See [LICENSE](LICENSE) for details.  
+
